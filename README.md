@@ -1,2 +1,2 @@
-# -ImagineThis_Sphero-Project-2016-Project-FindMe
+MSP-Sphero-Pilot-FindME
 iSpy game where you find objects by color!
